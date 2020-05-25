@@ -28,7 +28,7 @@ def get_filters():
       
     # TO DO: get user input for month (all, january, february, ... , june)
     
-    month=input("Enter your month from the list (all, january, february, ... , june):").lower()
+    month=input("Enter your month from the list (all, january, february, march... , june):").lower()
     months = ['all','january', 'february', 'march', 'april', 'may', 'june']
      
     while month not in months:
