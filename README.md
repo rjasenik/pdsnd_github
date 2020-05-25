@@ -2,7 +2,7 @@
 25 May, 2020
 
 ### Project Title
-Bikeshare project
+Bikeshare project by R. Jasenik
 
 ### Description
 A bicycle-sharing is a service in which bicycles are made available for shared use to individuals on a short term basis for a price or free. My Bike share project uses in Chicago, New York City, and Washington by computing a variety of descriptive statistics
